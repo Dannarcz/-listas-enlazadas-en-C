@@ -2,7 +2,7 @@
 
 Perfecto, aquí tienes el contenido del README.md en texto plano, sin formato Markdown ni símbolos especiales:
 
----
+
 
 Listas Enlazadas en C
 
@@ -19,7 +19,6 @@ Estructura del proyecto:
   - lista_simple.c
 - lista_doble/
   - lista_doble.c
-- README.md
 
 Compilación y ejecución:
 

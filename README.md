@@ -33,3 +33,15 @@ Para compilar y ejecutar la lista doblemente enlazada:
 3. Ejecutar: ./lista_doble
 
 
+Listas-Enlazadas-en-C
+
+Compilar y ejecutar lista simplemente enlazada:
+
+Para compilar el archivo lista_simple.c y ejecutar el programa en una terminal Linux:
+
+1. Abrir la terminal y navegar a la carpeta lista_simple  
+2. Ejecutar: gcc listasimple.c -o listasimple  
+3. Ejecutar: ./lista_simple  
+
+Esto generará un ejecutable llamado lista_simple que mostrará el funcionamiento de la lista simplemente enlazada.
+
